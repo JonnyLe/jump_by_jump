@@ -1,0 +1,11 @@
+{
+  "under_game_score_y":200,
+  "press_ratio":1.952,
+  "piece_base_height_1_2":13,
+  "piece_body_width":47,
+  "height":180,
+  "swipe":{
+    "x":[360,380],
+    "y":[1050,1070]
+  }
+}
